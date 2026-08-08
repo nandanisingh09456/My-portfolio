@@ -1,6 +1,6 @@
 import "./Projects.css";
 
-import chatbot from "../../assets/projects/chatbot.png";
+import chatbot from "../../assets/projects/Chatbot.png";
 import travel from "../../assets/projects/travel.png";
 import ecommerce from "../../assets/projects/ecommerce.png";
 import gallery from "../../assets/projects/gallery.png";
