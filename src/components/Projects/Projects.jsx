@@ -15,7 +15,7 @@ function Projects() {
       description:
         "Developed a Full Stack AI Chatbot using React, Node.js and Express.js. The chatbot provides intelligent responses through a clean and responsive user interface.",
       tech: ["React", "Node.js", "Express.js", "JavaScript"],
-      github: "#",
+      github: "https://github.com/nandanisingh09456/Nandexis-chatbot.git",
       demo: "#",
       featured: true,
     },
