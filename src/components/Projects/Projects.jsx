@@ -26,8 +26,8 @@ function Projects() {
       description:
         "An AI-powered travel planner that helps users discover destinations and create personalized travel plans.",
       tech: ["React", "Python", "JavaScript"],
-      github: "#",
-      demo: "#",
+      github: "https://github.com/nandanisingh09456/AI-travel-planner",
+      demo: "https://ai-travel-planner-one-sand.vercel.app/",
       featured: false,
     },
 
@@ -48,8 +48,8 @@ function Projects() {
       description:
         "Responsive image gallery with filtering, smooth animations and an attractive user interface.",
       tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/nandanisingh09456/Image--gallery",
-      demo: "#",
+      github: "https://github.com/nandanisingh09456/Gallery",
+      demo: "https://gallery-orpin-seven.vercel.app/",
       featured: false,
     },
   ];
